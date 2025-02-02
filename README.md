@@ -7,12 +7,12 @@ This project was coded on two platforms using Python as the programming language
 
 # Steps on how to run the program
 
-  1. Download the dataset and the Inner-Detection-and-Classification-of-Brain-Tumors-Using-MRI-images zipfile (If the raws are not 
-    showing on Inner-Detection-and-Classification-of-Brain-Tumors-Using-MRI-images file then click the "View raw" link to download the 
+  1. Download the "dataset" and "Inner-Detection-and-Classification-of-Brain-Tumors-Using-MRI-images" zipfiles (If the raws are not 
+    showing on "Inner-Detection-and-Classification-of-Brain-Tumors-Using-MRI-images" file then click the "View raw" link to download the 
     file)
   2. Unzip both files "dataset and Inner-Detection-and-Classification-of-Brain-Tumors-Using-MRI-images"
-  3. Add the dataset folder to the Inner-Detection-and-Classification-of-Brain-Tumors-Using-MRI-images folder under Project model folder
-  4. After successfully completing set 1 and 2 open the "Inner-Detection-and-Classification-of-Brain-Tumors-Using-MRI-images folder"  
+  3. Add the "dataset" folder to "the Inner-Detection-and-Classification-of-Brain-Tumors-Using-MRI-images" folder under Project model folder
+  4. After successfully completing set 1 and 2 open the "Inner-Detection-and-Classification-of-Brain-Tumors-Using-MRI-images" folder  
      with any coding software platform that handles python language. Preferably Visual Studio Code is recommended if possible and the 
      latest version of python.
   5. Install the required Python libraries listed on the "requirements.txt" file of the project and some additionals as needed.
