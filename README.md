@@ -6,7 +6,7 @@ This project was coded on two platforms using Python as the programming language
 ///$$$$$$$No password is required to access the project$$$$$$$///
 
 # Steps on how to run the program
-1. Install the required Python libraries listed on the requirement.txt file of the project and some additionals as needed.
+1. Install the required Python libraries listed on the "requirements.txt" file of the project and some additionals as needed.
 2. copy the file path link of the MRI image of your choice from the test dataset and paste like the example below:
 
                # Loading the image and mask in grayscale
