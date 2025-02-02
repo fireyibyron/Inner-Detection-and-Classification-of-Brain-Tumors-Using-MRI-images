@@ -1,5 +1,5 @@
 # Inner-Detection-and-Classification-of-Brain-Tumors-Using-MRI-images
-This is a bachelor's thesis based project for Computer Engineering degree.
+This is a thesis based project for Computer Engineering bachelor's degree.
 
 This project was coded on two platforms using Python as the programming language.
 
